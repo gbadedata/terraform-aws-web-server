@@ -1,0 +1,2 @@
+# Copy to terraform.tfvars and set your own value
+student_full_name = "Firstname Lastname"
