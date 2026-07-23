@@ -107,8 +107,8 @@ Terraform loads every `.tf` file in the working directory and treats them as one
 ### 1. Clone and enter the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
+git clone https://github.com/gbadedata/terraform-aws-web-server.git
+cd terraform-aws-web-server
 ```
 
 ### 2. Supply your variable values
