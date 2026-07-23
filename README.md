@@ -8,7 +8,10 @@
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-22.04%20LTS-E95420?logo=ubuntu&logoColor=white">
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-web%20server-009639?logo=nginx&logoColor=white">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-blue">
+  <a href="https://gbadedata.hashnode.dev/terraform-aws-vpc-from-scratch"><img alt="Article" src="https://img.shields.io/badge/Read%20the%20write%20up-Hashnode-2962FF?logo=hashnode&logoColor=white"></a>
 </p>
+
+**Full write up:** [There Is No "Public" Checkbox: What Building a VPC From Scratch in Terraform Actually Teaches You](https://gbadedata.hashnode.dev/terraform-aws-vpc-from-scratch)
 
 ---
 
